@@ -15,6 +15,10 @@ html {
 body {
   margin: 0;
   font-family: "DM Sans", system-ui, sans-serif;
-  background: #f5ede8;
+  background:
+    radial-gradient(circle at 16% 18%, rgba(255, 255, 255, 0.75), transparent 38%),
+    radial-gradient(circle at 82% 12%, rgba(219, 193, 181, 0.28), transparent 42%),
+    linear-gradient(165deg, #f8f2ee 0%, #f1e8e1 45%, #ebe0d8 100%);
+  background-attachment: fixed;
   color: #3d2c2c;
 }

@@ -8,7 +8,7 @@ import VenueSection from "@/components/sections/VenueSection";
 
 export default function Home() {
   return (
-    <main className="bg-cream text-body">
+    <main className="text-body">
       <Navigation />
       <HeroSection />
       <StorySection />

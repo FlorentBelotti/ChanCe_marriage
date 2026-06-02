@@ -48,8 +48,11 @@ export default function RSVPSection() {
   };
 
   return (
-    <section id="rsvp" className="bg-surface px-6 py-24">
-      <SectionReveal className="mx-auto max-w-3xl rounded-3xl border border-divider/60 bg-cream p-8 md:p-10">
+    <section
+      id="rsvp"
+      className="border-t border-divider/30 bg-[linear-gradient(175deg,rgba(240,227,219,0.7)_0%,rgba(247,241,235,0.95)_100%)] px-6 py-24"
+    >
+      <SectionReveal className="mx-auto max-w-3xl rounded-3xl border border-divider/50 bg-[linear-gradient(160deg,rgba(255,255,255,0.46),rgba(246,237,230,0.92))] p-8 md:p-10">
         <h2 className="text-center font-serifDisplay text-5xl text-accent">RSVP</h2>
         <p className="mt-3 text-center text-sm text-body/80">Réponse souhaitée avant le 30 mars 2026</p>
 
