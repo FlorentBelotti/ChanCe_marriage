@@ -5,17 +5,17 @@ const ceremonyGallery = [
   {
     title: "Entrée des mariés",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    image: "https://placehold.co/900x700?text=Entree",
+    image: "/placeholders/ceremony-1.svg",
   },
   {
     title: "Échanges de vœux",
     description: "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    image: "https://placehold.co/900x700?text=Voeux",
+    image: "/placeholders/ceremony-2.svg",
   },
   {
     title: "Moments partagés",
     description: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-    image: "https://placehold.co/900x700?text=Moments",
+    image: "/placeholders/ceremony-3.svg",
   },
 ];
 

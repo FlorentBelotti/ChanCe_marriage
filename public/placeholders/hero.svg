@@ -1,0 +1,16 @@
+<svg width="2400" height="1600" viewBox="0 0 2400 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="2400" height="1600" fill="#d8c7bf" />
+  <rect x="120" y="120" width="2160" height="1360" rx="120" fill="#e9ddd6" />
+  <text
+    x="50%"
+    y="50%"
+    fill="#6b4f4f"
+    font-family="DM Sans, Arial, sans-serif"
+    font-size="96"
+    font-weight="500"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >
+    Photo plein écran
+  </text>
+</svg>

@@ -9,7 +9,7 @@ export default function VenueSection() {
         <div className="mt-10 grid gap-8 md:grid-cols-[1.1fr,1fr]">
           <div className="overflow-hidden rounded-2xl border border-divider/60">
             <Image
-              src="https://placehold.co/1200x900?text=Reception"
+              src="/placeholders/reception.svg"
               alt="Photo de réception"
               width={1200}
               height={900}

@@ -16,7 +16,7 @@ export default function StorySection() {
         </div>
         <div className="overflow-hidden rounded-3xl border border-divider/40">
           <Image
-            src="https://placehold.co/1200x900?text=Preparatifs"
+            src="/placeholders/preparatifs.svg"
             alt="Photo des préparatifs"
             width={1200}
             height={900}

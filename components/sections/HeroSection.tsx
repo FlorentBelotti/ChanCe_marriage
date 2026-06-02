@@ -8,7 +8,7 @@ export default function HeroSection() {
       className="relative flex min-h-screen items-center justify-center overflow-hidden bg-cover bg-center px-6 pt-16 text-center text-overlay"
     >
       <Image
-        src="https://placehold.co/2400x1600?text=Full+Screen+Photo"
+        src="/placeholders/hero.svg"
         alt="Photo de mariage en plein écran"
         fill
         priority
