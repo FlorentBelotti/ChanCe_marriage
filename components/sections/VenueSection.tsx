@@ -26,7 +26,7 @@ export default function VenueSection() {
           <PhotoPlaceholder className="h-72 md:h-full" label="Photo du lieu" />
         </div>
         <div className="mt-8 overflow-hidden rounded-2xl border border-divider/45">
-          <div className="border-b border-divider/35 bg-white/35 px-5 py-2 text-xs uppercase tracking-[0.24em] text-accent/80">
+          <div className="border-b border-divider/35 bg-white/35 px-5 py-2 text-xs tracking-[0.08em] text-accent/80">
             Carte
           </div>
           <div className="bg-cream/60 p-2">
