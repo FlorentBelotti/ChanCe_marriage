@@ -1,0 +1,16 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="#d8c7bf" />
+  <rect x="60" y="60" width="780" height="580" rx="60" fill="#efe6e1" />
+  <text
+    x="50%"
+    y="50%"
+    fill="#6b4f4f"
+    font-family="DM Sans, Arial, sans-serif"
+    font-size="48"
+    font-weight="500"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >
+    Moments partagés
+  </text>
+</svg>
