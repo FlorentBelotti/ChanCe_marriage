@@ -5,17 +5,17 @@ const ceremonyGallery = [
   {
     title: "Entrée des mariés",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    image: "/placeholders/ceremony-1.svg",
+    image: "/placeholders/DSC_0106.JPG",
   },
   {
     title: "Échanges de vœux",
     description: "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    image: "/placeholders/ceremony-2.svg",
+    image: "/placeholders/DSC_0108.JPG",
   },
   {
     title: "Moments partagés",
     description: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-    image: "/placeholders/ceremony-3.svg",
+    image: "/placeholders/DSC_0109.JPG",
   },
 ];
 
